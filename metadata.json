@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Mission - Pengingat Tugas Biologi",
+  "description": "Aplikasi pengingat tugas mahasiswa Biologi bertema petualangan ekspedisi flora & fauna dengan maskot kelinci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
